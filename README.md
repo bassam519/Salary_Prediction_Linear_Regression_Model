@@ -35,9 +35,9 @@ The dataset (`Salary_dataset.csv`) contains:
 ## 📈 Model Performance
 | Metric | Value |
 |--------|-------|
-| **MSE** | _value_here_ |
-| **RMSE** | _value_here_ |
-| **R² Score** | _value_here_ |
+| **MSE** | 27885284.56 |
+| **RMSE** | 5279.68 |
+| **R² Score** | 0.94 |
 
 ---
 
