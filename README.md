@@ -69,10 +69,10 @@ The model learns the relationship between years of experience and salary from hi
 
 ## 📷 Visualizations
 ### Scatter Plot (Actual Data)
-![scatter](images/scatter_plot.png)
+![scatter]([images/scatter_plot.png](https://github.com/bassam519/Salary_Prediction_Linear_Regression_Model/blob/main/sctter_plot.png))
 
 ### Predicted vs Actual
-![prediction](images/prediction_plot.png)
+![prediction]([images/prediction_plot.png](https://github.com/bassam519/Salary_Prediction_Linear_Regression_Model/blob/main/prediction_plot.png))
 
 ---
 
